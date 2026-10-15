@@ -1,0 +1,6 @@
+{
+  "name": "WorkforceIQ",
+  "description": "Workforce Intelligence Platform for capacity optimization, team building, skill gap analysis, and automated workload rebalancing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
